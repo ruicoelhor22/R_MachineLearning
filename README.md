@@ -6,6 +6,7 @@ This project was developed in the Master's Degree Course TIAPOSE, during the 4th
 
 ## Running the Project
 Download the file or clone the repo, set the Working Directory to the project folder, and run the app.R file.
+Projct to be deployed on SinyApps.io soon. 
 
 # Models (Machine Learning)
 For our models, we chose those that fitted the criteria of our data and prediction objective (Time Series Forecasting) from two major packages: **Rminer** and **Forecast**.
