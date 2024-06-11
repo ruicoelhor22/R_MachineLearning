@@ -1,6 +1,9 @@
 # R_MachineLearning
 This project was developed in the Master's Degree Course TIAPOSE, during the 4th year of MEGSI. It applies machine learning and optimization algorithms to a dataset related to Walmart sales and employee numbers, using R and Shiny as an interface.
 
+![image](https://github.com/ruicoelhor22/R_MachineLearning/assets/58275291/698be65a-2354-441d-9aa9-4cd516dfe66e)
+
+
 ## Running the Project
 Download the file or clone the repo, set the Working Directory to the project folder, and run the app.R file.
 
